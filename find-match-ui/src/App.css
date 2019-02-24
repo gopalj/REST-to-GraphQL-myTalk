@@ -48,3 +48,21 @@ button {
 .input-container button{
   flex-basis: 15%;
 }
+
+.match-container {
+  padding: 30px;
+  text-align: center;
+    margin-top: 5%;
+}
+
+.match-container img{
+  border-radius: 50%;
+}
+
+li{
+  font-size: 20px;
+  font-weight: 600;
+  list-style: none;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
